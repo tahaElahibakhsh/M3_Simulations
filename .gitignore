@@ -1,0 +1,15 @@
+# Organizer answer keys
+**/solution*.ipynb
+**/solution*.py
+**/*solution*.py
+
+# Private evaluation data and organizer-only files
+**/private/
+**/*test_labels*.csv
+
+# Notebook runtime artifacts
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Generated participant submissions
+**/submission.csv
